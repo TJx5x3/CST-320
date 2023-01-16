@@ -1,1 +1,1 @@
-uh, i'm still figuring out how github works
+How to use github
